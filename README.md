@@ -1,4 +1,4 @@
-# Can we find exceptional materials?
+# Can machine learning find extraordinary materials?
 
 # Usage
 
